@@ -8,5 +8,6 @@ Sample website with plenty of files for demos
 
 ## How To Contribute
 
+Please fork this repository and issue fork request for review. 
 ## Copyright
 Copyright 2020
